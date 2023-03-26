@@ -1,2 +1,2 @@
-# alx-interview
+# Alx-interview
 Interview sample tasks
